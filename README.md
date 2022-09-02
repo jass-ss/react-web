@@ -1,15 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - Chrome Kitchen
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+	이 사이트는 비상업용 목적으로 제작된 가상 기업 사이트입니다. 이
+	사이트에 사용된 이미지의 출처는 smeg, unox, balmuda, unsplash 이며,
+	저작권은 해당 기업과 사진작가에게 있습니다.
